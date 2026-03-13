@@ -14,3 +14,5 @@ Inside the Jupyter Notebook, you will find a complete workflow that covers:
   * Testing different distance metrics (e.g., Euclidean vs. Manhattan distance).
   * (Optional) Applying dimensionality reduction techniques (like PCA) to speed up training and inference.
 * **Evaluation:** Assessing the model using metrics such as Accuracy, Precision, and Recall, along with visualizations like the Confusion Matrix.
+* **Nearest Centroid Classifier:** Implementation of the Nearest Centroid Classifier for image classification and experiments/evaluation.
+
