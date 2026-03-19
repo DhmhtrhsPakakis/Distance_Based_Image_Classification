@@ -1,8 +1,8 @@
-# Knntests
+# Machine Learning for Image Classification
 
 # 👕 K-Nearest Neighbors (k-NN) Image Classification on Fashion MNIST
 
-This repository contains a Jupyter Notebook focused on implementing and analyzing the **k-Nearest Neighbors (k-NN)** machine learning algorithm for image classification. 
+This repository contains a Jupyter Notebook focused on implementing and analyzing the **Distance-based Algorithms (KNN & Nearest Centroid)**  for image classification. 
 
 ## 📊 About the Dataset
 The dataset used in this project is [**Fashion MNIST**](https://github.com/zalandoresearch/fashion-mnist). It consists of 70,000 grayscale images in low resolution (28x28 pixels), representing 10 different categories of clothing and accessories (e.g., t-shirts, trousers, sneakers, bags).
